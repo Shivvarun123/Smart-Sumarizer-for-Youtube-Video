@@ -22,7 +22,7 @@ Before you begin, ensure you have installed:
 ## Installation 
 
 1. Clone this repository:
-git clone 
+git clone https://github.com/Shivvarun123/Smart-Sumarizer-for-Youtube-Video.git
 
 2. Change into the project directory:
  cd youtube_summarizer
