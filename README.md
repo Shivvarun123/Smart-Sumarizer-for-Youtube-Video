@@ -22,7 +22,7 @@ Before you begin, ensure you have installed:
 ## Installation 
 
 1. Clone this repository:
-git clone https://github.com/DevRico003/youtube_summarizer
+git clone 
 
 2. Change into the project directory:
  cd youtube_summarizer
